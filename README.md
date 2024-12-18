@@ -1,7 +1,3 @@
-Aqui está o README formatado e organizado para você colocar no GitHub:  
-
----
-
 # 💻 Sistema de PDV para Distribuidora de Bebidas  
 
 Este é um sistema de **Ponto de Venda (PDV)** desenvolvido em **C#** para facilitar o gerenciamento de vendas e estoque em uma distribuidora de bebidas. Com funcionalidades modernas e uma interface intuitiva, o sistema atende às principais demandas do setor, incluindo cadastro de produtos, vendas em tempo real, controle de estoque e relatórios detalhados.  
