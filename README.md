@@ -1,7 +1,9 @@
 Sistema de PDV para Distribuidora de Bebidas
+
 Este é um sistema de ponto de venda (PDV) desenvolvido em C# para atender às necessidades de uma distribuidora de bebidas. O sistema oferece funcionalidades como cadastro de produtos, gerenciamento de estoque, vendas em tempo real e geração de relatórios.
 
 Funcionalidades
+
 Cadastro de Bebidas: Inclua produtos com nome, código, preço, categoria, estoque e imagem.
 Controle de Estoque: Atualização automática do estoque após vendas.
 Frente de Caixa (PDV):
@@ -11,6 +13,7 @@ Relatórios de Vendas: Relatórios diários e mensais gerados em Excel com infor
 Sistema de Login: Diferenciação entre administrador e usuários normais, permitindo gerenciamento de contas pelo administrador.
 
 Configuração do Banco de Dados
+
 Este sistema utiliza o banco de dados MySQL, que funciona localmente com o XAMPP. Siga os passos abaixo para configurar o banco de dados:
 
 Instale o XAMPP:
